@@ -1,3 +1,7 @@
+My custom version of Proton
+
+Patches: point wine to BenCantCode/wine-custom, fixes the game "SCP: Secret Laboratory"
+
 ---
 Introduction
 ---
